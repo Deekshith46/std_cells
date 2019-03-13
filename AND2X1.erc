@@ -1,0 +1,24 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'AND2X1 layout AND2X1':
+  info: Assign pin label "vss" at (0.0400, -0.0075) to layer `metal1_conn'.
+  info: Assign pin label "a" at (0.2050, 0.9000) to layer `metal1_conn'.
+  info: Assign pin label "b" at (0.4625, 0.9075) to layer `metal1_conn'.
+  info: Assign pin label "y" at (0.7600, 0.7725) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (0.0350, 1.5000) to layer `metal1_conn'.
+
+***** End of Label Report *****
+
+
+***** Begin Label Report *****
+
+ Label in cell 'AND2X1 layout AND2X1':
+  info: Assign pin label "vss" at (0.0400, -0.0075) to layer `metal1_conn'.
+  info: Assign pin label "a" at (0.2050, 0.9000) to layer `metal1_conn'.
+  info: Assign pin label "b" at (0.4625, 0.9075) to layer `metal1_conn'.
+  info: Assign pin label "y" at (0.7600, 0.7725) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (0.0350, 1.5000) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

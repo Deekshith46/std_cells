@@ -1,0 +1,17 @@
+
+
+;----------------------------------------------------------------------------
+; vldb RSF file
+; Created by the Assura UI
+;----------------------------------------------------------------------------
+
+; form additions
+avSimName = "auLvs"
+avDisableWildcardPG = nil
+avVerilogBusMapIEEE = t
+avLibName  = "AO21X4"
+avCellName = "AO21X4"
+avViewName = "schematic"
+avViewList = "auLvs schematic symbol"
+avStopList = "auLvs"
+avVldbFile = "/home/vv2trainee2/Desktop/Deekshith/standard_cells/Standard_cells/std_cells/AO21X4.sdb"

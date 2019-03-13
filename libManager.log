@@ -1,0 +1,33 @@
+\o Program:		@(#)$CDS: libManager version 6.1.7 - CAT35 03/14/2018 00:53 (sjfhw314) $
+\o Sub version:		sub-version  s191 
+\o Arguments:		-unmapped -mpssession virtuoso94324 -mpshost compute-srv2.eda.atme.in 
+\o Working Directory:	compute-srv2.eda.atme.in:/home/vv2trainee2/Desktop/Deekshith/standard_cells/Standard_cells/AND2X1
+\o 64-bit offsets
+\o Qt version: 		4.8.5
+\o changeWorkingDir("/home/vv2trainee2/Desktop/Deekshith/standard_cells/Standard_cells/AND2X1") unnecessary.
+\o ddSetForcedLib("") unnecessary.
+\o Log file is "/home/vv2trainee2/Desktop/Deekshith/standard_cells/Standard_cells/AND2X1/libManager.log".
+\o Opening libManager window.
+\a nrSetWindowVisibility(cdsLibManager "show")
+\o MPS service: map window
+\o Library Manager customization server connected.
+\a nrSetCurrentWindow(cdsLibManager)
+\w Warning: The directory: '/home/install/FOUNDRY/rfLib_new' does not exist
+\w 	but was defined in libFile '/tools/cadence/FOUNDRY/cds.lib' for Lib 'rfLib_new'.
+\a nrResizeWindow(cdsLibManager list(-10 20 602 491))
+\a _lmgrCloseIconify("cdsLibManager" 1)
+\w Warning: The directory: '/home/install/FOUNDRY/rfLib_new' does not exist
+\w 	but was defined in libFile '/tools/cadence/FOUNDRY/cds.lib' for Lib 'rfLib_new'.
+\w Warning: The directory: '/home/install/FOUNDRY/rfLib_new' does not exist
+\w 	but was defined in libFile '/tools/cadence/FOUNDRY/cds.lib' for Lib 'rfLib_new'.
+\w Warning: The directory: '/home/install/FOUNDRY/rfLib_new' does not exist
+\w 	but was defined in libFile '/tools/cadence/FOUNDRY/cds.lib' for Lib 'rfLib_new'.
+\w Warning: The directory: '/home/install/FOUNDRY/rfLib_new' does not exist
+\w 	but was defined in libFile '/tools/cadence/FOUNDRY/cds.lib' for Lib 'rfLib_new'.
+\w Warning: The directory: '/home/install/FOUNDRY/rfLib_new' does not exist
+\w 	but was defined in libFile '/tools/cadence/FOUNDRY/cds.lib' for Lib 'rfLib_new'.
+\w Warning: The directory: '/home/install/FOUNDRY/rfLib_new' does not exist
+\w 	but was defined in libFile '/tools/cadence/FOUNDRY/cds.lib' for Lib 'rfLib_new'.
+\w Warning: The directory: '/home/install/FOUNDRY/rfLib_new' does not exist
+\w 	but was defined in libFile '/tools/cadence/FOUNDRY/cds.lib' for Lib 'rfLib_new'.
+\o libManager is exiting.

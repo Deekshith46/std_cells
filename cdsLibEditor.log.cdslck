@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      vv2trainee2
+HostName                       compute-srv2.eda.atme.in
+ProcessIdentifier              94760
+ProcessCreationTime_UTC        1552169644
+ProcessCreationTime_Readable   Sun Mar 10 03:44:04 2019 IST
+AppIdentifier                  /tools/cadence/IC617/tools/dfII/bin/64bit/cdsLibEditor
+OSType                         lnx86
+ReasonForPlacingEditLock       log file
+FilePathUsedToEditLock         /home/vv2trainee2/Desktop/Deekshith/standard_cells/Standard_cells/AND2X1/cdsLibEditor.log
+TimeEditLocked                 Sun Mar 10 03:44:04 2019 IST

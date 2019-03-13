@@ -1,0 +1,23 @@
+C g45p1svt(MOS) g45p1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C g45n1svt(MOS) g45n1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C "BUFX2 schematic BUFX2" "BUFX2 layout BUFX2"
+N net46 avC5
+N y y
+N vss vss
+N vdd vdd
+N a a
+I NM0 avD2_1
+I NM1 avD2_2
+I PM0 avD10_1
+I PM1 avD10_2
+

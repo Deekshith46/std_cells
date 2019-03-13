@@ -1,0 +1,9 @@
+SOFTINCLUDE /home/vv2trainee2/cds.lib
+DEFINE AND2X1 /home/vv2trainee2/Desktop/Deekshith/standard_cells/Standard_cells/AND2X1/AND2X1
+DEFINE avTech /tools/cadence/ASSURA41/tools.lnx86/assura/etc/avtech/avTech
+DEFINE OR2X1 /home/vv2trainee2/Desktop/Deekshith/standard_cells/Standard_cells/AND2X1/OR2X1
+DEFINE AO21X1 /home/vv2trainee2/Desktop/Deekshith/standard_cells/Standard_cells/std_cells/AO21X1
+DEFINE AO21X2 /home/vv2trainee2/Desktop/Deekshith/standard_cells/Standard_cells/std_cells/AO21X2
+DEFINE AO21X4 /home/vv2trainee2/Desktop/Deekshith/standard_cells/Standard_cells/std_cells/AO21X4
+DEFINE BUFX1 /home/vv2trainee2/Desktop/Deekshith/standard_cells/Standard_cells/std_cells/BUFX1
+DEFINE BUFX2 /home/vv2trainee2/Desktop/Deekshith/standard_cells/Standard_cells/std_cells/BUFX2

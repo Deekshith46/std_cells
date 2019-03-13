@@ -1,0 +1,26 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'AO21X2 layout AO21X2':
+  info: Assign pin label "vss" at (0.0400, 0.0000) to layer `metal1_conn'.
+  info: Assign pin label "a" at (0.2075, 0.8500) to layer `metal1_conn'.
+  info: Assign pin label "b" at (0.4075, 0.8350) to layer `metal1_conn'.
+  info: Assign pin label "c" at (0.6125, 0.8500) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (0.0350, 1.4975) to layer `metal1_conn'.
+  info: Assign pin label "y" at (1.1500, 0.7600) to layer `metal1_conn'.
+
+***** End of Label Report *****
+
+
+***** Begin Label Report *****
+
+ Label in cell 'AO21X2 layout AO21X2':
+  info: Assign pin label "vss" at (0.0400, 0.0000) to layer `metal1_conn'.
+  info: Assign pin label "a" at (0.2075, 0.8500) to layer `metal1_conn'.
+  info: Assign pin label "b" at (0.4075, 0.8350) to layer `metal1_conn'.
+  info: Assign pin label "c" at (0.6125, 0.8500) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (0.0350, 1.4975) to layer `metal1_conn'.
+  info: Assign pin label "y" at (1.1500, 0.7600) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

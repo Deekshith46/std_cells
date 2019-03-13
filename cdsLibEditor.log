@@ -1,0 +1,15 @@
+\o Program:		@(#)$CDS: cdsLibEditor version 6.1.7 - CAT35 03/14/2018 00:55 (sjfhw314) $
+\o Sub version:		sub-version  s191 
+\o Arguments:		-cdslib /home/vv2trainee2/cds.lib -mpssession virtuoso94324 -mpshost compute-srv2.eda.atme.in 
+\o Working Directory:	compute-srv2.eda.atme.in:/home/vv2trainee2/Desktop/Deekshith/standard_cells/Standard_cells/AND2X1
+\o 64-bit offsets
+\a nrSetWindowVisibility(cdsLibEditor "show")
+\o Qt version: 		4.8.5
+\a nrSetCurrentWindow(cdsLibEditor)
+\a nrListItemAction(cdsLibEditor->mainTable 0 0)
+\o Active cell: 0 0 "cdsDefTechLib"
+\a nrResizeWindow(cdsLibEditor list(28 58 500 400))
+\a nrListItemAction(cdsLibEditor->mainTable 13 0)
+\o Active cell: 13 0 "gpdk045"
+\a nrListItemAction(cdsLibEditor->mainTable 14 0)
+\o Active cell: 14 0 ""
